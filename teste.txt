@@ -1,0 +1,10 @@
+Ola, mundo
+
+Hello, world
+
+123456789
+
+Uma string qualquer.
+
+This is a way to build an criptografy app for text files.
+
